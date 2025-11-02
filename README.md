@@ -14,13 +14,8 @@ I am a developer who enjoys building innovative solutions and exploring the late
   </a>
 </div>
 
+## Check My Profile
 
-## Projects
-
-Check out my [projects](https://radwan-fahim.netlify.app/).
-
-## Connect with Me
-
-<a href="https://x.com/Radwan_Fahim0" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/radwan-fahim-dev/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+<a href="https://x.com/Radwan_Fahim0" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/radwan-fahim-dev/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://radwan-fahim.netlify.app/" target="_blank" rel="noopener noreferrer"><Icon /> Portfolio</a>
 
 <img width="845" height="931" alt="image" src="https://github.com/user-attachments/assets/a95901c5-fb1d-4da4-9bb4-f6b827697317" />
