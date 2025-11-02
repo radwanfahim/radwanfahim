@@ -8,7 +8,12 @@ I am a developer who enjoys building innovative solutions and exploring the late
 
 ## Skills & Technologies
 
-html,css,js,tailwind,bootstrap,materialui,nodejs,express,mongodb,mysql,postgres,git,github,figma,ps,wordpress
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,solidjs,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,supabase,,git,github,figma,ps,wordpress&perline=8" alt="My Skills">
+  </a>
+</div>
+
 
 ## Projects
 
