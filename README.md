@@ -1,74 +1,90 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          radwanfahim — GitHub Profile README                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--              RADWANFAHIM — SPACE DASHBOARD README              -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<!-- ░░░ ANIMATED HEADER — DIAGONAL SLICE ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020818,40:071428,70:0c2340,100:020818&height=300&section=header&text=RADWAN%20FAHIM&fontSize=76&fontColor=ffffff&fontAlignY=38&fontAlign=27&desc=Full-Stack%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20UI%20Craftsman&descSize=15&descAlignY=58&descAlign=27&descColor=38bdf8&animation=twinkling&stroke=38bdf8&strokeWidth=1" />
+<!-- ════ NEBULA HEADER ════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03000f,25:0d0221,50:12082e,75:0a1628,100:03000f&height=300&section=header&text=RADWAN%20FAHIM&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=◎%20Full-Stack%20Engineer%20%20%7C%20%20Product%20Builder%20%20%7C%20%20Dhaka%2C%20BD%20%F0%9F%87%A7%F0%9F%87%A9&descSize=14&descAlignY=65&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
-</div>
+<br/>
 
-<!-- ░░░ NEON LINE ░░░ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-<!-- ░░░ ANIMATED TYPING — MULTIPLE LINES ░░░ -->
-<a href="https://github.com/radwanfahim">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=const+dev+%3D+%22Radwan+Fahim%22;stack+%3D+%5B+MERN+%7C+React+%7C+Firebase+%5D;status+%3D+%22always+building+%F0%9F%9A%80%22" />
-</a>
+<!-- ════ MISSION STATUS TYPING ════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=◎+MISSION+STATUS+%3A+ONLINE;◎+STACK+%3A+MERN+%7C+React+%7C+Next.js+%7C+Firebase;◎+CURRENT+OBJECTIVE+%3A+Mastering+Next.js+%2B+TypeScript;◎+AVAILABILITY+%3A+Open+to+Opportunities;◎+COORDINATES+%3A+Dhaka%2C+Bangladesh+23.8103%C2%B0N+90.4125%C2%B0E" />
 
 <br/><br/>
 
-<!-- ░░░ SOCIAL PILLS ░░░ -->
-<a href="https://github.com/radwanfahim"><img src="https://img.shields.io/github/followers/radwanfahim?logo=github&style=for-the-badge&color=0891b2&labelColor=020818" /></a>
-<a href="https://github.com/radwanfahim?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/radwanfahim?color=0891b2&style=for-the-badge&labelColor=020818&logo=star&label=stars" /></a>
-<img src="https://komarev.com/ghpvc/?username=radwanfahim&style=for-the-badge&color=0891b2&labelColor=020818&label=views" />
+<!-- ════ STATUS BADGES ════ -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7c3aed?style=flat-square&labelColor=0d0221&logo=circle&logoColor=a78bfa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ROLE-Full--Stack%20Engineer-7c3aed?style=flat-square&labelColor=0d0221"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Dhaka%20BD-7c3aed?style=flat-square&labelColor=0d0221&logo=googlemaps&logoColor=a78bfa"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=radwanfahim&style=flat-square&color=7c3aed&labelColor=0d0221&label=SIGNAL+RECEIVED"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   MISSION BRIEFING                          -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" border="0" width="96%">
 <tr>
-<td width="50%" valign="top">
 
-## 🧑‍💻 About Me
+<!-- LEFT: IDENTITY CARD -->
+<td width="42%" valign="top">
 
-```typescript
-const radwan = {
-  name     : "Radwan Fahim",
-  location : "Dhaka, Bangladesh 🇧🇩",
-  role     : "Full-Stack Engineer",
+<div align="center">
 
-  stack: {
-    frontend : ["React", "Next.js", "Tailwind"],
-    backend  : ["Node.js", "Express", "MongoDB"],
-    tools    : ["Firebase", "Docker", "Git"],
-  },
-
-  currentlyLearning : "Next.js + TypeScript",
-  openTo            : "Collaborations & Roles",
-  funFact           : "I debug by explaining to my cat 🐱",
-};
+```
+┌─────────────────────────────────────┐
+│  ◎  OPERATIVE PROFILE               │
+├─────────────────────────────────────┤
+│                                     │
+│  ID       ›  Radwan Fahim           │
+│  HANDLE   ›  @radwanfahim           │
+│  SECTOR   ›  Full-Stack Engineering │
+│  BASE     ›  Dhaka, Bangladesh      │
+│  MISSION  ›  Build · Scale · Ship   │
+│                                     │
+├─────────────────────────────────────┤
+│  SYSTEMS CHECK                      │
+│                                     │
+│  React/Next.js  [████████████] 88%  │
+│  UI/Tailwind    [███████████░] 85%  │
+│  Node/Express   [█████████░░░] 75%  │
+│  MongoDB/DB     [█████████░░░] 78%  │
+│  Firebase       [█████████░░░] 76%  │
+│  TypeScript     [████████░░░░] 65%  │
+│  DevOps         [██████░░░░░░] 50%  │
+│                                     │
+├─────────────────────────────────────┤
+│  CLEARANCE   ›  Full-Stack Dev      │
+│  THREAT LVL  ›  Caffeine Dependent  │
+└─────────────────────────────────────┘
 ```
 
+</div>
+
 </td>
-<td width="50%" align="center" valign="top">
+
+<!-- RIGHT: GITHUB STATS -->
+<td width="58%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=radwanfahim&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=8b5cf6&ring_color=7c3aed&include_all_commits=true&count_private=true&custom_title=◎+GitHub+Command+Center" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED CODING GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding" style="border-radius:12px"/>
+<img src="https://streak-stats.demolab.com?user=radwanfahim&theme=transparent&hide_border=true&background=0D0221&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=6d28d9&dates=4c1d95&currStreakNum=ffffff&sideNums=a78bfa&border_radius=8" width="100%"/>
 
 </td>
 </tr>
@@ -76,141 +92,112 @@ const radwan = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   TECH ARSENAL — DASHBOARD GRID             -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
 
 <br/>
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+### ◎ &nbsp; TECH ARSENAL — ACTIVE LOADOUT
 
 <br/>
 
-<!-- ROW 1: FRONTEND -->
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark&perline=8" />
-</p>
-
-<!-- ROW 2: BACKEND -->
-<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=dark&perline=8" />
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,redis,graphql,prisma&theme=dark&perline=8" />
-</p>
-
-<!-- ROW 3: TOOLS -->
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode,figma&theme=dark&perline=8" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode,postman&theme=dark&perline=8" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS — 3 CARDS                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   MISSION LOGS — PROJECTS                   -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
 
 <br/>
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br/>
-
-<a href="https://github.com/radwanfahim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radwanfahim&show_icons=true&hide_border=true&bg_color=020818&title_color=38bdf8&icon_color=0891b2&text_color=64748b&ring_color=38bdf8&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanfahim&layout=compact&hide_border=true&bg_color=020818&title_color=38bdf8&text_color=64748b&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<!-- ANIMATED STREAK -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=radwanfahim&theme=transparent&hide_border=true&background=020818&stroke=38bdf8&ring=0891b2&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=334155&currStreakNum=ffffff&sideNums=38bdf8&border_radius=10&type=svg" width="70%"/>
-</a>
+### ◎ &nbsp; MISSION LOGS — DEPLOYED PROJECTS
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radwanfahim&bg_color=020818&color=38bdf8&line=0891b2&point=ffffff&area=true&area_color=071428&hide_border=true&custom_title=Contribution+Activity&radius=8)](https://github.com/radwanfahim)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   PROJECTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<br/>
-
-<!-- PROJECT CARDS using github-readme-stats pin -->
-<div align="center">
-
+<!-- PINNED REPO CARD -->
 <a href="https://github.com/radwanfahim/Hotel-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=radwanfahim&repo=Hotel-management-system&hide_border=true&bg_color=020818&title_color=38bdf8&icon_color=0891b2&text_color=64748b&description_lines_count=2" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=radwanfahim&repo=Hotel-management-system&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7c3aed&text_color=8b5cf6&description_lines_count=2"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- MANUAL PROJECT SHOWCASE -->
 <div align="center">
-<table border="0" width="90%">
+<table border="0" width="92%">
 <tr>
 <td align="center" width="33%">
 
-### 🏨 Hotel Management
-**MERN** · Firebase · Tailwind
+```
+◎ MISSION — ALPHA
+━━━━━━━━━━━━━━━━━━━━
+STATUS   : LIVE ✓
+CODENAME : Hotel System
+CLASS    : Full-Stack App
+━━━━━━━━━━━━━━━━━━━━
+React · Node · MongoDB
+Firebase · Tailwind
+━━━━━━━━━━━━━━━━━━━━
+```
 
-Full booking system with admin panel, appointments & auth
-
-[![Live](https://img.shields.io/badge/Live-020818?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://royalerelaxo.netlify.app)
-[![Repo](https://img.shields.io/badge/Repo-020818?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/radwanfahim/Hotel-management-system)
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Next Project
-**Stack** · Coming Soon
-
-Your next big thing goes here — one line that makes people click
-
-[![WIP](https://img.shields.io/badge/In_Progress-020818?style=for-the-badge&logo=githubactions&logoColor=fbbf24)](#)
+[![DEPLOY](https://img.shields.io/badge/◎%20LIVE%20DEPLOY-0d0221?style=for-the-badge&logo=netlify&logoColor=a78bfa)](https://royalerelaxo.netlify.app)
+[![REPO](https://img.shields.io/badge/◎%20VIEW%20REPO-0d0221?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/radwanfahim/Hotel-management-system)
 
 </td>
 <td align="center" width="33%">
 
-### 🔮 Open Source
-**TypeScript** · Tool
+```
+◎ MISSION — BETA
+━━━━━━━━━━━━━━━━━━━━
+STATUS   : IN PROGRESS ⟳
+CODENAME : [Your Project]
+CLASS    : [App Type]
+━━━━━━━━━━━━━━━━━━━━
+[Stack] · [Here]
+━━━━━━━━━━━━━━━━━━━━
+```
 
-A utility or library people find at 2am and actually star
+[![WIP](https://img.shields.io/badge/◎%20IN%20PROGRESS-0d0221?style=for-the-badge&logo=githubactions&logoColor=fbbf24)](#)
 
-[![Soon](https://img.shields.io/badge/Coming_Soon-020818?style=for-the-badge&logo=github&logoColor=38bdf8)](#)
+</td>
+<td align="center" width="33%">
+
+```
+◎ MISSION — GAMMA
+━━━━━━━━━━━━━━━━━━━━
+STATUS   : LOADING... ◌
+CODENAME : [Next Arc]
+CLASS    : [Type]
+━━━━━━━━━━━━━━━━━━━━
+[Stack] · [Here]
+━━━━━━━━━━━━━━━━━━━━
+```
+
+[![SOON](https://img.shields.io/badge/◎%20COMING%20SOON-0d0221?style=for-the-badge&logo=rocket&logoColor=a78bfa)](#)
 
 </td>
 </tr>
@@ -219,79 +206,136 @@ A utility or library people find at 2am and actually star
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TROPHY SHOWCASE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   METRICS DASHBOARD                         -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
 
 <br/>
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+### ◎ &nbsp; TELEMETRY — LIVE METRICS
 
-<img src="https://github-profile-trophy.vercel.app/?username=radwanfahim&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanfahim&layout=donut&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=8b5cf6&langs_count=8&custom_title=◎+Language+Distribution" height="200"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanfahim&layout=compact&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=8b5cf6&langs_count=8&custom_title=◎+Language+Breakdown" height="200"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radwanfahim&bg_color=03000f&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=12082e&hide_border=true&custom_title=◎+Orbital+Contribution+Map&radius=6)](https://github.com/radwanfahim)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   TROPHIES                                  -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-## 🐍 Watch My Contributions Get Eaten
+### ◎ &nbsp; ACHIEVEMENT UNLOCKED
+
+<img src="https://github-profile-trophy.vercel.app/?username=radwanfahim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" width="92%"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   SNAKE + GRID                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### ◎ &nbsp; ORBITAL DECAY — COMMIT CONSTELLATION
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/radwanfahim/radwanfahim/output/github-contribution-grid-snake-dark.svg" width="92%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CONNECT                                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   TRANSMISSION / CONNECT                    -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:7c3aed&height=2&width=100%&section=header" width="100%"/>
+</div>
 
 <br/>
 
 <div align="center">
 
-## 🤝 Let's Connect & Build Together
+### ◎ &nbsp; OPEN A TRANSMISSION CHANNEL
 
 <br/>
 
+<a href="https://github.com/radwanfahim">
+  <img src="https://img.shields.io/badge/◎%20GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d0221"/>
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/radwanfahim">
-  <img src="https://img.shields.io/badge/LinkedIn-020818?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020818" />
+  <img src="https://img.shields.io/badge/◎%20LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d0221"/>
 </a>
+&nbsp;
 <a href="https://twitter.com/radwanfahim">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-020818?style=for-the-badge&logo=x&logoColor=38bdf8&labelColor=020818" />
+  <img src="https://img.shields.io/badge/◎%20TWITTER-0d0221?style=for-the-badge&logo=x&logoColor=a78bfa&labelColor=0d0221"/>
 </a>
+&nbsp;
 <a href="https://radwanfahim.dev">
-  <img src="https://img.shields.io/badge/Portfolio-020818?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=020818" />
+  <img src="https://img.shields.io/badge/◎%20PORTFOLIO-0d0221?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=0d0221"/>
 </a>
+&nbsp;
 <a href="mailto:radwanfahim@proton.me">
-  <img src="https://img.shields.io/badge/Email-020818?style=for-the-badge&logo=protonmail&logoColor=38bdf8&labelColor=020818" />
+  <img src="https://img.shields.io/badge/◎%20EMAIL-0d0221?style=for-the-badge&logo=protonmail&logoColor=a78bfa&labelColor=0d0221"/>
 </a>
 
 <br/><br/>
 
-<!-- QUOTE -->
-> *"Good software is invisible. Great software is inevitable."*
+```
+  ┌──────────────────────────────────────────────────────────┐
+  │                                                          │
+  │   The best engineers don't just write code.              │
+  │   They architect outcomes.                               │
+  │                                      — radwanfahim       │
+  │                                                          │
+  └──────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<!-- WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:071428,100:020818&height=120&section=footer&text=Thanks+for+visiting+%E2%80%94+go+build+something+great&fontSize=13&fontColor=38bdf8&fontAlignY=65&animation=twinkling" />
+<!-- ════ WARP FOOTER ════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03000f,30:0d0221,65:12082e,100:03000f&height=130&section=footer&text=%40radwanfahim%20%C2%B7%20Transmitting%20from%20Dhaka%20%C2%B7%2023.81%C2%B0N%2090.41%C2%B0E&fontSize=12&fontColor=7c3aed&fontAlignY=65&animation=fadeIn"/>
 
 </div>
