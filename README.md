@@ -58,22 +58,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-```bash
-┌──(radwanfahim㉿dev)-[~]
-└─$ git log --oneline --featured-projects
-```
-
-| # | Project | About | Stack |
-|---|---------|-------|-------|
-| 01 | 🔥 **[project-name](https://github.com/radwanfahim/project)** | Short punchy description here | `Next.js` `Node` |
-| 02 | ⚡ **[project-name](https://github.com/radwanfahim/project)** | Short punchy description here | `React` `Postgres` |
-| 03 | 🛠️ **[project-name](https://github.com/radwanfahim/project)** | Short punchy description here | `Python` `Docker` |
-
-> 📌 *Replace these with your actual pinned repos!*
-
----
-
 ```bash
 ┌──(radwanfahim㉿dev)-[~]
 └─$ curl github-stats/radwanfahim
@@ -81,11 +65,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radwanfahim&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=cccccc)
+![Streak](https://streak-stats.demolab.com?user=radwanfahim&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=cccccc&dates=cccccc&sideNums=ffffff&currStreakNum=ffffff)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=radwanfahim&theme=dark&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanfahim&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=cccccc)
 
 </div>
 
@@ -98,9 +79,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radwanfahim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radwanfahim@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radwan-fahim-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://radwan-fahim.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trfahimdev@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radwanfahim)
 
 </div>
