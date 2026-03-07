@@ -5,12 +5,12 @@
 <div align="center">
 
 <!-- ════ NEBULA HEADER ════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03000f,25:0d0221,50:12082e,75:0a1628,100:03000f&height=300&section=header&text=RADWAN%20FAHIM&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=◎%20Full-Stack%20Engineer%20%20%7C%20%20Product%20Builder%20%20%7C%20%20Dhaka%2C%20BD%20%F0%9F%87%A7%F0%9F%87%A9&descSize=14&descAlignY=65&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03000f,25:0d0221,50:12082e,75:0a1628,100:03000f&height=300&section=header&text=RADWAN%20FAHIM&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=◎%20Full-Stack%20Engineer%20%20%7C%20%20Product%20Builder%20%20%7C%20%20UI%20Craftsman&descSize=14&descAlignY=65&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
 <br/>
 
 <!-- ════ MISSION STATUS TYPING ════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=◎+MISSION+STATUS+%3A+ONLINE;◎+STACK+%3A+MERN+%7C+React+%7C+Next.js+%7C+Firebase;◎+CURRENT+OBJECTIVE+%3A+Mastering+Next.js+%2B+TypeScript;◎+AVAILABILITY+%3A+Open+to+Opportunities;◎+COORDINATES+%3A+Dhaka%2C+Bangladesh+23.8103%C2%B0N+90.4125%C2%B0E" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=◎+MISSION+STATUS+%3A+ONLINE;◎+STACK+%3A+MERN+%7C+React+%7C+Next.js+%7C+Firebase;◎+CURRENT+OBJECTIVE+%3A+Mastering+Next.js+%2B+TypeScript;◎+AVAILABILITY+%3A+Open+to+Opportunities" />
 
 <br/><br/>
 
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-7c3aed?style=flat-square&labelColor=0d0221&logo=circle&logoColor=a78bfa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ROLE-Full--Stack%20Engineer-7c3aed?style=flat-square&labelColor=0d0221"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Dhaka%20BD-7c3aed?style=flat-square&labelColor=0d0221&logo=googlemaps&logoColor=a78bfa"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=radwanfahim&style=flat-square&color=7c3aed&labelColor=0d0221&label=SIGNAL+RECEIVED"/>
 
@@ -53,7 +51,6 @@
 │  ID       ›  Radwan Fahim           │
 │  HANDLE   ›  @radwanfahim           │
 │  SECTOR   ›  Full-Stack Engineering │
-│  BASE     ›  Dhaka, Bangladesh      │
 │  MISSION  ›  Build · Scale · Ship   │
 │                                     │
 ├─────────────────────────────────────┤
@@ -336,6 +333,6 @@ CLASS    : [Type]
 <br/>
 
 <!-- ════ WARP FOOTER ════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03000f,30:0d0221,65:12082e,100:03000f&height=130&section=footer&text=%40radwanfahim%20%C2%B7%20Transmitting%20from%20Dhaka%20%C2%B7%2023.81%C2%B0N%2090.41%C2%B0E&fontSize=12&fontColor=7c3aed&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03000f,30:0d0221,65:12082e,100:03000f&height=130&section=footer&text=%40radwanfahim%20%C2%B7%20Always%20Building%20%C2%B7%20Always%20Shipping&fontSize=12&fontColor=7c3aed&fontAlignY=65&animation=fadeIn"/>
 
 </div>
