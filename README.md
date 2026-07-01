@@ -1,101 +1,76 @@
-<!-- RADWANFAHIM — GitHub Profile README -->
+<h1 align="center">Hi 👋, I'm a Full-Stack Developer & AI Automation Expert</h1>
+<h3 align="center">Web Developer | WordPress | React & Next.js | AI Automation (n8n, Zapier, Make)</h3>
 
-<div align="center">
-
-```
-██████╗  █████╗ ██████╗ ██╗    ██╗ █████╗ ███╗   ██╗    ███████╗ █████╗ ██╗  ██╗██╗███╗   ███╗
-██╔══██╗██╔══██╗██╔══██╗██║    ██║██╔══██╗████╗  ██║    ██╔════╝██╔══██╗██║  ██║██║████╗ ████║
-██████╔╝███████║██║  ██║██║ █╗ ██║███████║██╔██╗ ██║    █████╗  ███████║███████║██║██╔████╔██║
-██╔══██╗██╔══██║██║  ██║██║███╗██║██╔══██║██║╚██╗██║    ██╔══╝  ██╔══██║██╔══██║██║██║╚██╔╝██║
-██║  ██║██║  ██║██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║    ██║     ██║  ██║██║  ██║██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Turning+ideas+into+products;Code.+Build.+Ship.+Repeat.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+web+apps;React+%7C+Next.js+%7C+Solid+%7C+Node.js;Turning+startup+ideas+into+real+products;AI+Automation+with+n8n%2C+Zapier+%26+Make" alt="Typing SVG" />
+</p>
 
 ---
 
-```bash
-┌──(radwanfahim㉿dev)-[~]
-└─$ cat /etc/profile
-```
+### 🚀 About Me
 
-```
-╔══════════════════════════════════════════════╗
-║  NAME    →  Radwan Fahim                     ║
-║  ROLE    →  Full-Stack Developer             ║
-║  STATUS  →  Open to collabs & opportunities  ║
-║  OS      →  Powered by caffeine & curiosity  ║
-╚══════════════════════════════════════════════╝
-```
+I'm a **Full-Stack Developer** focused on building fast, scalable, and user-friendly web applications. I work primarily with **React, Next.js, Solid, Node.js**, and modern JavaScript frameworks to help startups and businesses turn ideas into real products.
+
+I enjoy working with **early-stage startups** that need to launch MVPs quickly, validate ideas, and scale their platforms without wasting time or resources.
+
+- 🔭 Currently helping startups build and scale MVPs
+- ⚙️ Passionate about clean code, scalable architecture, and automation
+- 🌱 Always exploring new tools in the JS/AI ecosystem
+- 💬 Ask me about React, Next.js, Node.js, WordPress, or workflow automation
+- 📫 Open to freelance/contract work and new product collaborations
 
 ---
 
-```bash
-┌──(radwanfahim㉿dev)-[~]
-└─$ ls ./tech-stack/
-```
+### 🛠️ What I Can Help With
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-4169E1?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4169E1?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-```bash
-┌──(radwanfahim㉿dev)-[~]
-└─$ curl github-stats/radwanfahim
-```
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=radwanfahim&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=cccccc&dates=cccccc&sideNums=ffffff&currStreakNum=ffffff)
-
-
-</div>
+- 🧩 Building full-stack web applications
+- 📊 Developing SaaS platforms and dashboards
+- 🎨 Creating responsive and high-performance frontend apps
+- 🔗 API development and backend systems
+- 🖌️ Converting designs (Figma) into production-ready code
+- ⚡ Improving website performance and UX
+- 🤖 Building automation workflows with **n8n, Zapier, and Make**
 
 ---
 
-```bash
-┌──(radwanfahim㉿dev)-[~]
-└─$ ping --reach-me
-```
+### 🧰 Tech Stack
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radwan-fahim-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://radwan-fahim.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trfahimdev@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radwanfahim)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+### 📈 GitHub Stats
 
-```bash
-$ echo "Thanks for dropping by — let's build something cool."
-> _
-```
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radwanfahim&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanfahim&layout=compact&hide_border=true" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=radwanfahim&color=39FF14&style=flat-square&label=visitors)
+---
 
-</div>
+### 🤝 Let's Connect
+
+If you're building a product or need a developer to bring your idea to life, feel free to connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/radwan-fahim-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:trfahimdev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://radwan-fahim.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Clean code. Scalable architecture. Real results.</i></p>
