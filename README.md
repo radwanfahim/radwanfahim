@@ -57,8 +57,8 @@ I enjoy working with **early-stage startups** that need to launch MVPs quickly, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=radwanfahim&layout=pie&langs_count=6&theme=codeSTACKr" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=radwanfahim&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
+  <img height="300" src="https://github-stats-extended.vercel.app/api/top-langs?username=radwanfahim&layout=pie&langs_count=6&theme=codeSTACKr" />
+  <img height="300" src="https://github-stats-extended.vercel.app/api?username=radwanfahim&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
 </p>
 
 
